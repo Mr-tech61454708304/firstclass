@@ -1,7 +1,6 @@
 SAH
 RESTURANT WEBSITE
-THEME RED AND BLACK
 DESIGN HASSAN
 BACKEND KALEEM 
-TEAM LEAD ABID
-shayan your functionality not working properly please chect it 
+TEAM LEAD ABID 
+hassan use red and blue theme
